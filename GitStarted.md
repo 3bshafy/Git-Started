@@ -31,3 +31,26 @@ $cd [directory]
 | dirname | Takes you to specified directory |
 
 `Note: if the directory name contains spaces put it between double qoutes ("") so it is treated as one argument`
+
+## Git Commands (*The Real Deal*)
+### Creating A Git Directory
+Now we got a project file that we need to apply version control for, In other words use Git. first of all we need to [Install Git][Git] on our device.  
+We're gonna be interacting with a commandline type of an interface that we can access by right-clicking anywhere and choosing `Git Bash Here`, then we'll use the first helping command, our deer `cd` to change our working directory to the project file we want to initilize as git repo.
+
+1. **git init**
+
+```sh
+$ git init
+```
+> The git init command creates a new Git repository. It can be used to convert an existing, unversioned  
+> project to a Git repository or initialize a new, empty repository. Most other Git commands are not  
+> available outside of an initialized repository, so this is usually the first command you'll run in  
+> a new project.
+
+> Executing git init creates a .git subdirectory in the current working directory, which contains all  
+> of the necessary Git metadata for the new repository. This metadata includes subdirectories for objects,  
+> refs, and template files.
+
+
+
+[Git]:<https://git-scm.com/downloads>
