@@ -20,3 +20,19 @@
 | this | is |
 | ---- | -- |
 | a | table |
+
+## tricks
+**open code tap to know how ;)**  
+- RightArrow(&rarr;)  
+- lightArrow(&larr;)  
+- DownArrow(&darr;)  
+- UpArrow(&uarr;)
+- Normal font &rarr; Hello!
+- Underlined font &rarr; <u>Hello!</u>
+- Italic font &rarr; *Hello!*
+- Bold font  &rarr; **Hello!**
+- Orange for notes &rarr; `Hello!`
+- In a Box for snippets &darr; 
+```sh 
+Hello 
+```
