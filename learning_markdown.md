@@ -15,3 +15,8 @@
 > list with a line to the left  
 > list with a line to the left  
 > Note: `to make a new line in previous block use 2 spaces after the last word of the line`
+
+## To make a Table we use '|'
+| this | is |
+| ---- | -- |
+| a | table |
