@@ -1,8 +1,7 @@
 # GitStarted
 ## What is Git ?
-```sh
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-```
+
 > So basically Git was made to elimante the need for a scenario like  
 > were you create these kind of files Finalproject, FinalFinalproject,  
 > FinalProject v3.0 after each and every change done  to your code.
@@ -29,3 +28,6 @@ $cd [directory]
 | -------- | ------- |
 | No Arguments | Takes you to home directory |
 | - | Takes you back to previous working directory |
+| dirname | Takes you to specified directory |
+
+`Note: if the directory name contains spaces put it between double qoutes ("") so it is treated as one argument`
