@@ -51,6 +51,15 @@ $ git init
 > of the necessary Git metadata for the new repository. This metadata includes subdirectories for objects,  
 > refs, and template files.
 
+After creating your local repo in previous step now we need some sort of cloud based server so we can share and store our work and the saviour of the day is our beloved GitHub, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.
+So i assume that we already have a GitHub account, we create the repo on website and then at the setaup part we will find a link, don't miss it as we're gonna need it.
 
+2. **git remote add origin**
+```sh
+$ git remote add origin [remote_url]
+```
+> Now is the time to connect our local repo to GitHub, remember that link i mention above? will it is  
+> that remote-url, so we copy it then we run the command and voilaa!! now we have a GitHub repo and we  
+> are ready for the real deal. 
 
 [Git]:<https://git-scm.com/downloads>
