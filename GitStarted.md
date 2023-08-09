@@ -20,7 +20,7 @@ $cd [directory]
 > Before diving into usage of cd command, it is important to understand  
 > what it does. cd command is a built-in command in Bash that is used to  
 > change current working directory. When you execute cd command, you are  
-> telling shell to change directory that you are currently working in.
+> telling shell to change directory that you are currently working in.  
 > Here, directory refers to directory that you want to change to. If you  
 > do not specify a directory, cd command will take you to your home  
 > directory by default.
