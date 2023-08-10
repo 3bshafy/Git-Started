@@ -69,6 +69,14 @@ $ git remote add origin [remote_url]
 > that remote-url, so we copy it then we run the command and voilaa!! now we have a GitHub repo and we  
 > are ready for the real deal. 
 
+### Cloning Existing Git Repo
+
+```c
+// You can clone your existing repository or clone another person's existing 
+// repository to contribute to a project.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+```
+
 ### Manipulating Your Repo(***Add/commit/Push/Pull/etc..***) 
 
 - **The Sequence of Adding Your Changes to the Repo**
